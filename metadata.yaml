@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34884'
     url: http://www.gutenberg.org/2009/agents/34884
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30906#M-moires-in-dits-de-Mademoiselle-George-publi-s-d-apr-s-le-manuscrit-original
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
