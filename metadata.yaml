@@ -1,0 +1,38 @@
+_repo: M-moires-in-dits-de-Mademoiselle-George-publi-s-d-apr-s-le-manuscrit-original_30906
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Cheramy, Paul Arthur
+    birthdate: 1840
+    gutenberg_agent_id: '34885'
+    url: http://www.gutenberg.org/2009/agents/34885
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weimer, Marguerite-Joséphine  (Mademoiselle  George)
+    aliases:
+    - George, Mademoiselle (Marguerite-Josephine Weimer)
+    - Weimer, Marguerite-Joséphine
+    - George, Mlle (Marguerite-Joséphine Weimer)
+    birthdate: 1787
+    deathdate: 1867
+    gutenberg_agent_id: '34884'
+    url: http://www.gutenberg.org/2009/agents/34884
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30906'
+  lccn: 08021523
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'French literature'
+title: Mémoires inédits de Mademoiselle George, publiés d'après le manuscrit original
+url: http://www.gutenberg.org/ebooks/30906
